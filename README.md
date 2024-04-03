@@ -1,4 +1,4 @@
-# .env variable:
+# .env variables:
 
 PORT
 
